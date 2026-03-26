@@ -1,0 +1,368 @@
+{
+  "myTasks": [
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "CREATED",
+      "taskId": "2251799816150984",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "CREATED",
+      "taskId": "4503599629835522",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "2251799816149371",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "6755399443515296",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "6755399443513330",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "4503599629806285",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "2251799816120834",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "4503599629803269",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "CREATED",
+      "taskId": "2251799816118610",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "4503599629799053",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "2251799816114404",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "2251799816100243",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "6755399443441968",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "6755399443441948",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "4503599629753561",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "4503599629753547",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "2251799816055329",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "4503599629739925",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "6755399443399020",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "4503599629714104",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Sample_Team_App_Process_V2",
+      "status": "CREATED",
+      "taskId": "2251799815946279",
+      "taskName": "Team App Process V2"
+    },
+    {
+      "processType": "Sample_Team_App_Process_V2",
+      "status": "CREATED",
+      "taskId": "2251799815898696",
+      "taskName": "Team App Process V2"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "4503599629424631",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "2251799815740038",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "4503599629414978",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "6755399443083338",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "2251799815713723",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "4503599629394894",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "2251799815710296",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Sample_Team_App_Process_V2",
+      "status": "CREATED",
+      "taskId": "2251799815507352",
+      "taskName": "Team App Process V2"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "2251799815410483",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "2251799815408214",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "4503599628935597",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "2251799815250463",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "CANCELED",
+      "taskId": "4503599628928406",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "CANCELED",
+      "taskId": "2251799815239885",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "CANCELED",
+      "taskId": "6755399442607682",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "CANCELED",
+      "taskId": "4503599628919355",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "CANCELED",
+      "taskId": "2251799815231408",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "CANCELED",
+      "taskId": "4503599628885677",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "CANCELED",
+      "taskId": "4503599628882769",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "CANCELED",
+      "taskId": "2251799815195887",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "CANCELED",
+      "taskId": "2251799815195273",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Dual SO Fulfilment",
+      "status": "COMPLETED",
+      "taskId": "2251799815167911",
+      "taskName": "Validate Paperwork"
+    },
+    {
+      "processType": "Sample_Team_App_Process_V2",
+      "status": "CREATED",
+      "taskId": "2251799814990204",
+      "taskName": "Team App Process V2"
+    },
+    {
+      "processType": "Sample_Team_App_Process_V2",
+      "status": "CREATED",
+      "taskId": "2251799814983272",
+      "taskName": "Team App Process V2"
+    },
+    {
+      "processType": "Sample_Team_App_Process_V2",
+      "status": "CREATED",
+      "taskId": "2251799814983055",
+      "taskName": "Team App Process V2"
+    },
+    {
+      "processType": "Sample_Team_App_Process_V2",
+      "status": "CREATED",
+      "taskId": "2251799814965050",
+      "taskName": "Team App Process V2"
+    },
+    {
+      "processType": "Sample_Team_App_Process_V2",
+      "status": "CREATED",
+      "taskId": "6755399442042418",
+      "taskName": "Team App Process V2"
+    },
+    {
+      "processType": "Sample_Team_App_Process_V2",
+      "status": "CREATED",
+      "taskId": "4503599628346554",
+      "taskName": "Team App Process V2"
+    },
+    {
+      "processType": "Sample_Team_App_Process_V2",
+      "status": "CREATED",
+      "taskId": "2251799814661236",
+      "taskName": "Team App Process V2"
+    },
+    {
+      "processType": "Sample_Team_App_Process_V2",
+      "status": "CREATED",
+      "taskId": "2251799814653649",
+      "taskName": "Team App Process V2"
+    },
+    {
+      "processType": "Sample_Team_App_Process",
+      "status": "CREATED",
+      "taskId": "4503599627909504",
+      "taskName": "Team App Process"
+    },
+    {
+      "processType": "Sample_Team_App_Process_V2",
+      "status": "CREATED",
+      "taskId": "2251799814224089",
+      "taskName": "Team App Process V2"
+    }
+  ],
+  "recentActivities": [
+    {
+      "eventType": "ACTIVE",
+      "processType": "Dual SO Fulfilment",
+      "soId": "9344199"
+    },
+    {
+      "eventType": "ACTIVE",
+      "processType": "Dual SO Fulfilment",
+      "soId": "9344188"
+    },
+    {
+      "eventType": "ACTIVE",
+      "processType": "Dual SO Fulfilment",
+      "soId": "9344111"
+    },
+    {
+      "eventType": "ACTIVE",
+      "processType": "Dual SO Fulfilment",
+      "soId": "9344128"
+    }
+  ],
+  "summary": {
+    "activeProcesses": {
+      "count": 4,
+      "delta": "100.0"
+    },
+    "failedToday": {
+      "count": 0,
+      "delta": "-100.0"
+    },
+    "openTasks": {
+      "count": 16,
+      "delta": "11 hrs"
+    },
+    "pendingSla": {
+      "count": 0,
+      "delta": null
+    }
+  }
+}

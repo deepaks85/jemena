@@ -1,0 +1,38 @@
+{
+  "lastSynced": "2026-03-02T10:05:00Z",
+  "kpiThresholds": {
+    "activeProcesses":        { "warning": 1200, "danger": 1500 },
+    "awaitingCompanionSO":    { "warning": 10,   "danger": 20   },
+    "awaitingTaskCompletion": { "warning": 10,   "danger": 20   },
+    "escalated":              { "warning": 60,   "danger": 100  },
+    "slaBreached":            { "warning": 60,   "danger": 100  },
+    "expiring2h":             { "warning": 10,   "danger": 20   }
+  },
+  "kpis": [
+    { "id": "activeProcesses",        "label": "Active processes",          "value": 1256, "delta": "↑ 7.5% vs yesterday", "icon": "bi-lightning-charge" },
+    { "id": "awaitingCompanionSO",    "label": "Awaiting companion SO",     "value": 12,   "delta": "",                      "icon": "bi-people" },
+    { "id": "awaitingTaskCompletion", "label": "Awaiting task completion",   "value": 13,   "delta": "",                      "icon": "bi-clipboard-check" },
+    { "id": "escalated",              "label": "Escalated",                  "value": 110,  "delta": "",                      "icon": "bi-exclamation-triangle" },
+    { "id": "slaBreached",            "label": "SLA breached",               "value": 110,  "delta": "",                      "icon": "bi-x-octagon" },
+    { "id": "expiring2h",             "label": "Expiring < 2 hrs",           "value": 12,   "delta": "",                      "icon": "bi-hourglass-split" }
+  ],
+  "filters": {
+    "retailers": ["Red Energy", "Origin", "AGL", "EnergyAustralia"],
+    "processTypes": ["Dual SO", "Move In", "Move Out"],
+    "workTypes": ["SSW/MSW", "SSW", "MSW"],
+    "statuses": ["Accepted", "Pending", "Rejected", "Escalated"],
+    "slaStatuses": ["OK", "Expiring", "Breached"]
+  },
+  "serviceOrders": [
+    { "so": "9345459", "ti": "6001626439", "nmi": "62001626439", "retailer": "Red Energy", "processType": "Dual SO", "workType": "SSW/MSW", "status": "Accepted", "slaStatus": "OK",       "timeRemaining": "1h 23m", "openTasks": 14 },
+    { "so": "9345458", "ti": "6001626438", "nmi": "62001626438", "retailer": "Red Energy", "processType": "Dual SO", "workType": "SSW/MSW", "status": "Accepted", "slaStatus": "Expiring", "timeRemaining": "1h 23m", "openTasks": 14 },
+    { "so": "9345457", "ti": "6001626437", "nmi": "62001626437", "retailer": "Origin",     "processType": "Dual SO", "workType": "SSW/MSW", "status": "Accepted", "slaStatus": "OK",       "timeRemaining": "2h 10m", "openTasks": 6  },
+    { "so": "9345456", "ti": "6001626436", "nmi": "62001626436", "retailer": "AGL",        "processType": "Move In", "workType": "SSW",     "status": "Pending",  "slaStatus": "Expiring", "timeRemaining": "1h 05m", "openTasks": 9  },
+    { "so": "9345455", "ti": "6001626435", "nmi": "62001626435", "retailer": "Origin",     "processType": "Move Out","workType": "MSW",     "status": "Escalated","slaStatus": "Breached", "timeRemaining": "—",      "openTasks": 22 },
+    { "so": "9345454", "ti": "6001626434", "nmi": "62001626434", "retailer": "AGL",        "processType": "Dual SO", "workType": "SSW/MSW", "status": "Accepted", "slaStatus": "OK",       "timeRemaining": "3h 40m", "openTasks": 7  },
+    { "so": "9345453", "ti": "6001626433", "nmi": "62001626433", "retailer": "Red Energy", "processType": "Dual SO", "workType": "SSW/MSW", "status": "Accepted", "slaStatus": "Expiring", "timeRemaining": "1h 58m", "openTasks": 2  },
+    { "so": "9345452", "ti": "6001626432", "nmi": "62001626432", "retailer": "Origin",     "processType": "Dual SO", "workType": "SSW/MSW", "status": "Pending",  "slaStatus": "OK",       "timeRemaining": "2h 29m", "openTasks": 4  },
+    { "so": "9345451", "ti": "6001626431", "nmi": "62001626431", "retailer": "Red Energy", "processType": "Move In", "workType": "SSW",     "status": "Accepted", "slaStatus": "OK",       "timeRemaining": "4h 02m", "openTasks": 1  },
+    { "so": "9345450", "ti": "6001626430", "nmi": "62001626430", "retailer": "EnergyAustralia","processType": "Dual SO","workType":"SSW/MSW","status":"Accepted","slaStatus":"Expiring","timeRemaining":"1h 15m","openTasks": 5 }
+  ]
+}

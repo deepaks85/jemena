@@ -1,0 +1,61 @@
+{
+  "filters": {
+    "network": "All",
+    "search": ""
+  },
+  "lastSynced": "2026-03-02T09:50:00Z",
+  "kpis": [
+    {
+      "id": "activeProcesses",
+      "label": "Active processes",
+      "value": 1256,
+      "delta": "↑ 7.5% vs yesterday",
+      "icon": "bi-lightning-charge"
+    },
+    {
+      "id": "pendingSLA",
+      "label": "Pending SLA",
+      "value": 422,
+      "delta": "Next expiry in 4h 2m",
+      "icon": "bi-hourglass-split"
+    },
+    {
+      "id": "openTasks",
+      "label": "Open tasks",
+      "value": 213,
+      "delta": "Avg resolution: 1.4h",
+      "icon": "bi-list-check"
+    },
+    {
+      "id": "failedToday",
+      "label": "Failed today",
+      "value": 10,
+      "delta": "↓ 7.5% vs yesterday",
+      "icon": "bi-exclamation-octagon"
+    }
+  ],
+  "recentActivities": [
+    { "so": "9345459", "ti": "TI-10021", "processType": "Dual SO", "eventType": "Transaction received" },
+    { "so": "9345458", "ti": "TI-10020", "processType": "Dual SO", "eventType": "Transaction received" },
+    { "so": "9345457", "ti": "TI-10019", "processType": "Dual SO", "eventType": "Transaction received" },
+    { "so": "9345456", "ti": "TI-10018", "processType": "Dual SO", "eventType": "Transaction received" },
+    { "so": "9345455", "ti": "TI-10017", "processType": "Dual SO", "eventType": "Transaction received" },
+    { "so": "9345454", "ti": "TI-10016", "processType": "Dual SO", "eventType": "Transaction received" },
+    { "so": "9345453", "ti": "TI-10015", "processType": "Dual SO", "eventType": "Transaction received" },
+    { "so": "9345452", "ti": "TI-10014", "processType": "Dual SO", "eventType": "Transaction received" },
+    { "so": "9345451", "ti": "TI-10013", "processType": "Dual SO", "eventType": "Transaction received" },
+    { "so": "9345450", "ti": "TI-10012", "processType": "Dual SO", "eventType": "Transaction received" }
+  ],
+  "myTasks": [
+    { "taskId": "772145", "ti": "TI-10021", "taskName": "Validate paperwork", "status": "Open",        "processType": "Dual SO" },
+    { "taskId": "772146", "ti": "TI-10020", "taskName": "Validate paperwork", "status": "In progress", "processType": "Dual SO" },
+    { "taskId": "772147", "ti": "TI-10019", "taskName": "Validate paperwork", "status": "Breached",    "processType": "Dual SO" },
+    { "taskId": "772148", "ti": "TI-10018", "taskName": "Validate paperwork", "status": "Open",        "processType": "Dual SO" },
+    { "taskId": "772149", "ti": "TI-10017", "taskName": "Validate paperwork", "status": "In progress", "processType": "Dual SO" },
+    { "taskId": "772150", "ti": "TI-10016", "taskName": "Validate paperwork", "status": "Open",        "processType": "Dual SO" },
+    { "taskId": "772151", "ti": "TI-10015", "taskName": "Validate paperwork", "status": "In progress", "processType": "Dual SO" },
+    { "taskId": "772152", "ti": "TI-10014", "taskName": "Validate paperwork", "status": "Open",        "processType": "Dual SO" },
+    { "taskId": "772153", "ti": "TI-10013", "taskName": "Validate paperwork", "status": "In progress", "processType": "Dual SO" },
+    { "taskId": "772154", "ti": "TI-10012", "taskName": "Validate paperwork", "status": "Open",        "processType": "Dual SO" }
+  ]
+}
